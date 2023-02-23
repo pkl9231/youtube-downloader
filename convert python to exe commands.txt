@@ -1,0 +1,3 @@
+1. install ->  pip install pyinstaller
+2. to convert any python to exe -> pyinstaller <fileName.py>
+3. to convert python to single exe -> pyinstaller --onefile <fileName.py>
